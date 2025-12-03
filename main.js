@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         Luogu Redirect
 // @namespace    http://tampermonkey.net/
-// @version      0.6
+// @version      1.0
 // @description  Redirect Luogu China to international site or luogu.me
-// @author       You
+// @author       uint128t
 // @match        *://*.luogu.com.cn/*
 // @run-at       document-start
 // @grant        none
-// @downloadURL https://raw.githubusercontent.com/I-am-Victor/LuoguRedirect/refs/heads/main/main.js
-// @updateURL https://raw.githubusercontent.com/I-am-Victor/LuoguRedirect/refs/heads/main/main.js
+// @downloadURL https://raw.githubusercontent.com/uint128t/LuoguRedirect/refs/heads/main/main.js
+// @updateURL https://raw.githubusercontent.com/uint128t/LuoguRedirect/refs/heads/main/main.js
 // ==/UserScript==
 
 (function () {
